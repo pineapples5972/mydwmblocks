@@ -1,0 +1,2 @@
+# mydwmblocks
+my dwmblocks build
